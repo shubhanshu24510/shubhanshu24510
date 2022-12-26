@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhanshu24510
+- 👋 Hi, I’m Shubhanshu Singh.
 - 👀 I’m interested in Andriod Development.
 - 🌱 I’m currently learning  Andriod Studio.
 - 💞️ I’m looking to collaborate on ...
